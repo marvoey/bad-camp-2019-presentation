@@ -1,0 +1,12 @@
+#badcamp {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+#badcamp .logo-wrapper {
+  max-width: 92px;
+}
+
+ul.no-dec li {
+  list-style-type: none;
+}
